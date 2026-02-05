@@ -35,14 +35,11 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <a href="https://www.linkedin.com/in/mhuzaifaar/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://substack.com/@muhammadhuzaifarizwan">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBziP-QF7TuKtP9-xSPuwy7fLcPflLHC9dQ&s" alt="Substack"/>
-  </a>
   <a href="https://medium.com/@mhuzaifaar">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="https://medium.com/@mhuzaifaar">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"/>
   </a>
 </div>
 
